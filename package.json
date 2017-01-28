@@ -1,0 +1,22 @@
+{
+  "name": "mongoosejoin",
+  "version": "1.0.0",
+  "description": "NodeJS MongoDB Mongoose",
+  "main": "join-schema.js",
+  "dependencies": {
+    "mongodb": "^2.1.4",
+    "mongoose": "^4.1.2",
+    "chalk":"latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node readRecs.js",
+    "test": "dir",
+    "npmver": "npm -v",
+    "nodever": "node -v"
+  },
+  
+  "keywords": ["Node",  "MongoDB"],
+  "author": "Akhil",
+  "license": "ISC"
+}
