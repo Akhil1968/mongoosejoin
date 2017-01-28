@@ -9,6 +9,8 @@
 
 3. node readRecs.js
 
+# Ref: http://mongoosejs.com/docs/populate.html
+
 
 
 

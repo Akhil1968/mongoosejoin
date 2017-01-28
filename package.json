@@ -4,7 +4,6 @@
   "description": "NodeJS MongoDB Mongoose",
   "main": "join-schema.js",
   "dependencies": {
-    "mongodb": "^2.1.4",
     "mongoose": "^4.1.2",
     "chalk":"latest"
   },
